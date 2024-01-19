@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Garrett Swenson
 - 👀 I’m interested in back end computer programming
-- 🌱 I’m currently learning Python, will be learning SQL and eventually some basic front end
+- 🌱 I’m currently learning Python, will be learning SQL and eventually some basic front end with Udemy
 - 📫 How to reach me email: swensongarrett@gmail.com
 
 <!---
