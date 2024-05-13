@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Garrett Swenson
-- 👀 I’m interested in software engineering
+- 👀 I will code anything for you for free, because I need to expand my portfolio. Send me an email.
 - 🌱 I am proficient with serving websites and API's with Flask and Django frameworks, as well as the pandas and numbpy libraries for data, selenium and beautiful soup for webscraping, among others
 - Personal Business Website created on Flask with google analytics, using bootstrap for front end, hosted on render: www.slcmemoryvault.com
 - 📫 How to reach me email: swensongarrett@gmail.com
