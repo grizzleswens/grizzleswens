@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Garrett Swenson
-- 👀 I will code anything for you for free, because I need to expand my portfolio. Send me an email.
-- 🌱 I am proficient with serving websites and API's with Flask and Django frameworks, as well as the pandas and numbpy libraries for data, selenium and beautiful soup for webscraping, among others
+- 👀 Currently working as a remote fullstack web developer, building multiple web apps on django for Planet Wealth based out of Bentonville, Arkansas. Here is our website: app.planetwealth.com
+- 🌱 Experience with APIs, automation, building and integrating with third party CRMs, designing professional and responsive websites that are also mobile friendly, experience with a wide variety of popular python libraries such as numbpy, pandas, selenium, beautiful soup, and many others, along with experience with flask and django.
 - Personal Business Website created on Flask with google analytics, using bootstrap for front end, hosted on render: www.slcmemoryvault.com
 - 📫 How to reach me email: swensongarrett@gmail.com
 - 💻 Codewars: https://www.codewars.com/users/grizzleswens
